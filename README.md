@@ -30,36 +30,30 @@ Our contributions include:
 
 ## 🎬 Demo Videos
 
-> ⏳ **Loading Notice:** Demo thumbnails may take a few seconds to load. Click any image to view the full comparison video.
+> ⚠️ **Quality Note:** 
+> - The embedded **GIF previews** are compressed for fast loading and may appear slightly blurry.
+> - For the full high-quality experience, please download the original **MP4 videos** linked below.
 
 ### Indoor Scene Reconstruction Demos
 
 <div align="center">
-  <a href="./demo/office3.mp4">
-    <img src="https://raw.githubusercontent.com/SongJiang-WHU/G3DS-LiDAR/main/img/thumb_office3.png" width="100%" alt="Office 3 Scene">
-  </a>
-  <p><i>Office 3 Scene</i></p>
+  <img src="https://github.com/SongJiang-WHU/G3DS-LiDAR/blob/main/demo/office3.gif?raw=true" width="100%" alt="Office 3 Scene Preview">
+  <p><i>Office 3 Scene — <a href="./demo/office3.mp4">Download High-Quality MP4</a></i></p>
 </div>
 
 <div align="center">
-  <a href="./demo/office4.mp4">
-    <img src="https://raw.githubusercontent.com/SongJiang-WHU/G3DS-LiDAR/main/img/thumb_office4.png" width="100%" alt="Office 4 Scene">
-  </a>
-  <p><i>Office 4 Scene</i></p>
+  <img src="https://github.com/SongJiang-WHU/G3DS-LiDAR/blob/main/demo/office4.gif?raw=true" width="100%" alt="Office 4 Scene Preview">
+  <p><i>Office 4 Scene — <a href="./demo/office4.mp4">Download High-Quality MP4</a></i></p>
 </div>
 
 <div align="center">
-  <a href="./demo/room0.mp4">
-    <img src="https://raw.githubusercontent.com/SongJiang-WHU/G3DS-LiDAR/main/img/thumb_room0.png" width="100%" alt="Room 0 Scene">
-  </a>
-  <p><i>Room 0 Scene</i></p>
+  <img src="https://github.com/SongJiang-WHU/G3DS-LiDAR/blob/main/demo/room0.gif?raw=true" width="100%" alt="Room 0 Scene Preview">
+  <p><i>Room 0 Scene — <a href="./demo/room0.mp4">Download High-Quality MP4</a></i></p>
 </div>
 
 <div align="center">
-  <a href="./demo/room2.mp4">
-    <img src="https://raw.githubusercontent.com/SongJiang-WHU/G3DS-LiDAR/main/img/thumb_room2.png" width="100%" alt="Room 2 Scene">
-  </a>
-  <p><i>Room 2 Scene</i></p>
+  <img src="https://github.com/SongJiang-WHU/G3DS-LiDAR/blob/main/demo/room2.gif?raw=true" width="100%" alt="Room 2 Scene Preview">
+  <p><i>Room 2 Scene — <a href="./demo/room2.mp4">Download High-Quality MP4</a></i></p>
 </div>
 
 ---
@@ -67,18 +61,30 @@ Our contributions include:
 ### Outdoor Scene Reconstruction Demos
 
 <div align="center">
-  <a href="./demo/fastlivo2.mp4">
-    <img src="https://raw.githubusercontent.com/SongJiang-WHU/G3DS-LiDAR/main/img/thumb_fastlivo2.png" width="100%" alt="FAST-LIVO2 Outdoor Scene">
-  </a>
-  <p><i>FAST-LIVO2 Outdoor Scene</i></p>
+  <img src="https://github.com/SongJiang-WHU/G3DS-LiDAR/blob/main/demo/fastlivo2.gif?raw=true" width="100%" alt="FAST-LIVO2 Outdoor Scene Preview">
+  <p><i>FAST-LIVO2 Outdoor Scene — <a href="./demo/fastlivo2.mp4">Download High-Quality MP4</a></i></p>
 </div>
 
 <div align="center">
-  <a href="./demo/HLS-Ours.mp4">
-    <img src="https://raw.githubusercontent.com/SongJiang-WHU/G3DS-LiDAR/main/img/thumb_hls.png" width="100%" alt="HLS Outdoor Scene">
-  </a>
-  <p><i>HLS Outdoor Scene</i></p>
+  <img src="https://github.com/SongJiang-WHU/G3DS-LiDAR/blob/main/demo/HLS-Ours.gif?raw=true" width="100%" alt="HLS Outdoor Scene Preview">
+  <p><i>HLS Outdoor Scene — <a href="./demo/HLS-Ours.mp4">Download High-Quality MP4</a></i></p>
 </div>
+
+---
+
+### Outdoor Scene Reconstruction Demos
+
+<div align="center">
+  <img src="https://github.com/SongJiang-WHU/G3DS-LiDAR/blob/main/demo/HLS-Ours.gif?raw=true" width="100%" alt="WHU-mass Outdoor Scene Preview">
+  <p><i>FAST-LIVO2 Outdoor Scene — <a href="./demo/HLS-Ours.mp4">Download High-Quality MP4</a></i></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/SongJiang-WHU/G3DS-LiDAR/blob/main/demo/HLS-Ours.gif?raw=true" width="100%" alt="HLS Outdoor Scene Preview">
+  <p><i>HLS Outdoor Scene — <a href="./demo/HLS-Ours.mp4">Download High-Quality MP4</a></i></p>
+</div>
+
+---
 
 ## 🚧 Code Release
 The full code will be released **upon paper acceptance**.

@@ -1,5 +1,5 @@
 # G3DS-LiDAR: Geometry-Aware 3D Gaussian Splatting with Persistent LiDAR Priors
-Official project page for **G3DS-LiDAR** (under review at ISPRS Journal of Applied Geoinformatics (JAG)).
+Official project page for **G3DS-LiDAR** (under review at ISPRS Journal of Photogrammetry and Remote Sensing).
 
 ## 📌 Abstract
 Conventional 3D Gaussian Splatting (3DGS) often suffers from geometric drift, scale degradation, and floating artifacts, especially in weakly-textured, occluded, or depth-discontinuous regions.
